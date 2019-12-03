@@ -1,0 +1,33 @@
+
+
+
+int main()
+{
+//Compile should not allow me to create object of Animal class
+	Animal *ptr = new Animal();
+
+	Animal *dog = new Dog("Boss", 7 /*months*/);
+	Animal *cat = new Cat("Pinky", 2 /*year*/, 25);
+
+	cout<<dog<<endl;
+	cout<<cat<<endl;
+
+	if(cat > dog)
+
+	cat.operator(dog);
+		cat->speak();
+	else
+		dog->speak();
+	
+	delete cat;
+	delete dog;
+//----------------------
+//I dont have any name .. but i know dog is 10 months old
+	Dog d(10);
+	d.speak();
+
+	Dog c(d);
+	c.speak();
+	
+}
+

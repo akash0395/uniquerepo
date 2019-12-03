@@ -1,0 +1,108 @@
+1. Program to Find Largest Element of an Array
+
+2. Program to Calculate Average Using Arrays
+Enter the numbers of elements: 6
+1. Enter number: 45.3
+2. Enter number: 67.5
+3. Enter number: -45.6
+4. Enter number: 20.34
+5. Enter number: 33
+6. Enter number: 45.6
+Average = 27.69
+
+3. Program to remove duplicate element in an array
+Input: 10,22,35,43,27,65,65,22,45,33
+Output: 10,0,35,43,27,0,0,0,45,33
+
+4. Program to find Highest and lowest number in array
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																			Input: 10,22,35,43,27,65,65,22,45,33
+Highest: 65
+Lowest: 10
+
+5. Merging of two sorted array into new array
+Input array 1: 10,20,30,45,67
+Input array 2: 10,22,27,48,65
+Output: 10,10,20,22,27,30,45,48,65,67
+
+6. Program to Multiply to Matrix Using Multi-dimensional Arrays
+Enter rows and column for first matrix: 3
+2
+Enter rows and colThe location “smb://ietserver.local/sh…/2%20Array%20Programs.txt” is not currently reachable.umn for second matrix: 3
+2
+Error! column of first matrix not equal to row of second.
+
+Enter rows and column for first matrix: 2
+3The location “smb://ietserver.local/sh…/2%20Array%20Programs.txt” is not currently reachable.
+Enter rows and column for second matrix: 3
+2
+
+Enter elements of The location “smb://ietserver.local/sh…/2%20Array%20Programs.txt” is not currently reachable.matrix 1:
+Enter elements a11: 3
+Enter elements a12: -2
+Enter elements a13: 5
+Enter elements a21: 3
+Enter elements a22: 0
+Enter elements a23: 4
+
+Enter elements of matrix 2:
+Enter elements b11: 2
+Enter elements b12: 3
+Enter elements b21: -9
+Enter elements b22: 0
+Enter elements b31: 0
+Enter elements b32: 4
+
+Output Matrix:
+24  29
+
+6  25
+
+7. Program to Add Two Matrix Using Multi-dimensional Arrays
+Enter number of rows (between 1 and 100): 2
+Enter number of columns (between 1 and 100): 3
+	
+Enter elements of 1st matrix:
+Enter element a11: 2
+Enter element a12: 3
+Enter element a13: 4
+Enter element a21: 5
+Enter element a22: 2
+Enter element a23: 3
+Enter elements of 2nd matrix:
+Enter element a11: -4
+Enter element a12: 5
+Enter element a13: 3
+Enter element a21: 5
+Enter element a22: 6
+Enter element a23: 3
+
+Sum of two matrix is: 
+
+-2   8   7   
+
+10   8   6
+
+8. Program to Find Transpose of a Matrix
+Enter rows and columns of matrix: 2
+3
+
+Enter element of matrix:
+Enter element a11: 2
+Enter element a12: 3
+Enter element a13: 4
+Enter element a21: 5
+Enter element a22: 6
+Enter element a23: 4
+
+Entered Matrix: 
+2  3  4  
+
+5  6  4  
+
+
+Transpose of Matrix:The location “smb://ietserver.local/sh…/2%20Array%20Programs.txt” is not currently reachable.
+2  5  
+
+3  6  
+
+4  4

@@ -1,0 +1,13 @@
+1 Program to Find Factorial of a Number Using Recursion
+Enter a positive integer: 6
+Factorial of 6 = 720
+
+2. Program for GCD of Two Numbers using Recursion
+Enter two positive integers: 366
+60
+G.C.D of 366 and 60 is 6.
+
+3. Program to calculate power using recursion
+Enter base number: 3
+Enter power number(positive integer): 4
+3^4 = 81

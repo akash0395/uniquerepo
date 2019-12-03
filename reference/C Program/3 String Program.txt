@@ -1,0 +1,20 @@
+1. Remove Characters in String Except Alphabets
+Enter a string: p2'r-o@gram84iz./
+Output String: programiz
+
+2. Find the Frequency of Characters in a string
+Enter a string: This website is awesome.
+Enter a character to find the frequency: e
+Frequency of e = 4
+
+3. Program to Concatenate Two Strings
+Enter first string: lol
+Enter second string: :)
+After concatenation: lol:)
+
+4. Program to Copy String Without Using strcpy()
+Enter String s1: abcdefgh 
+String s2: abcdefgh
+
+5. Write a c program to check given string is palindrome number or not
+

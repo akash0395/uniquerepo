@@ -1,0 +1,44 @@
+  .1. Program to Count Number of Digits in an Integer
+Enter an integer: 3452
+Number of digits: 4
+
+2. Factors of a Positive Integer
+Enter a positive integer: 60
+Factors of 60 are: 1 2 3 4 5 6 10 12 15 20 30 60
+
+3. Program to Check Vowel or consonant
+Enter an alphabet: G
+G is a consonant.
+
+4. Program to Find the Largest Number Among Three Numbers using if, if else, nested if else
+Enter three numbers: -4.5
+3.9
+5.6
+5.60 is the largest number.
+
+5. Program to Find LCM of two Numbers
+Enter two positive integers: 72
+120
+The LCM of 72 and 120 is 360.
+
+6. Program to Reverse a Number
+Enter an integer: 2345
+Reversed Number = 5432
+
+7. Program to Check Whether a Character is an Alphabet or not
+Enter a character: *
+* is not an alphabet
+
+8. Program to Calculate Standard Deviation
+Enter 10 elements: 1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+Standard Deviation = 2.872281

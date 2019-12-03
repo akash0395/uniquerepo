@@ -1,0 +1,31 @@
+ 
+	A
+	^
+	|
+	B
+
+
+
+Up Casting:
+	B *ptr = new B();
+	A *pptr = static_cast<A*>(ptr);
+
+Down Casting: (RTTI)
+	A *ptr = new B();
+	B *pptr = dynamic_cast<B*> (ptr);
+
+Reinterpret Cast:
+	
+	int i=10;
+	int *ptr = &i;
+
+	A *pptr = reinterpret_cast<A*>(ptr);
+
+Const Cast:
+
+
+
+
+
+
+
